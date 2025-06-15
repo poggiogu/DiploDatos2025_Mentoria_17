@@ -1,8 +1,40 @@
-numpy
+# requirements.txt - Librerías comunes para análisis de datos y ML
+
+# Manipulación de datos
 pandas
+numpy
+
+# Visualización
 matplotlib
 seaborn
-geopandas
-cartopy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchaudio
+torchvision
+
+# Jupyter Notebooks
+jupyterlab
+notebook
+
+# Utilidades
 scipy
-jupyter
+tqdm
+joblib
+
+# Lectura de archivos y formatos
+openpyxl
+pyyaml
+
+# Procesamiento de datos espaciales y científicos (opcional)
+rasterio
+geopandas
+netCDF4
+h5py
