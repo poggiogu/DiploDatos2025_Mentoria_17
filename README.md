@@ -13,7 +13,24 @@ This repository contains notebooks and datasets for the analysis and visualizati
 
 ## Installation
 
-1. Clone this repository:
+- Clone this repository:
    ```bash
    git clone https://github.com/poggiogu/DiploDatos2025_Mentoria_17.git
    cd DiploDatos2025_Mentoria_17
+
+## Requirements
+This project uses Python 3.7+ and depends on the following main libraries:
+
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- geopandas
+- cartopy
+- scipy
+
+(You will find the complete list in requirements.txt)
+
+You can install all the libraries in the requirements file at once using:
+   ```bash
+   pip install -r requirements.txt
