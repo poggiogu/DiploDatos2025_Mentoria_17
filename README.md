@@ -31,6 +31,6 @@ This project uses Python 3.7+ and depends on the following main libraries:
 
 (You will find the complete list in requirements.txt)
 
-You can install all the libraries in the requirements file at once using:
+You can install all the libraries in the requirements file at once using this command in your terminal:
    ```bash
    pip install -r requirements.txt
