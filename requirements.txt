@@ -1,0 +1,13 @@
+
+---
+
+**requirements.txt**
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+cartopy
+scipy
+jupyter
